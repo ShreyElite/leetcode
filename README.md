@@ -13,6 +13,7 @@ aboutmy leetcode submissions
 | [0033-search-in-rotated-sorted-array](https://github.com/ShreyElite/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0069-sqrtx](https://github.com/ShreyElite/leetcode/tree/master/0069-sqrtx) |
 | [0658-find-k-closest-elements](https://github.com/ShreyElite/leetcode/tree/master/0658-find-k-closest-elements) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/ShreyElite/leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 ## Newton's Method
 |  |
 | ------- |
@@ -22,6 +23,7 @@ aboutmy leetcode submissions
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/ShreyElite/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0658-find-k-closest-elements](https://github.com/ShreyElite/leetcode/tree/master/0658-find-k-closest-elements) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/ShreyElite/leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 ## Two Pointers
 |  |
 | ------- |
