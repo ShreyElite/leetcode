@@ -3,10 +3,11 @@ class Solution {
        int low=0,high=arr.length-1;
        int n=arr.length;
        int mid=0;
-        while(low<=high){
+       
+        while(low<high){
             mid=low+(high-low)/2;
     
-      if(arr[mid]>=arr[high]){
+      if(arr[mid]>arr[high]){
             low=mid+1;
            }
            else {
@@ -14,6 +15,6 @@ class Solution {
            }
 
         }
-        return arr[mid];
+        return arr[low];
     }
 }
