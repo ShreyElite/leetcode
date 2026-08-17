@@ -7,6 +7,7 @@ aboutmy leetcode submissions
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/ShreyElite/leetcode/tree/master/0069-sqrtx) |
+| [0877-stone-game](https://github.com/ShreyElite/leetcode/tree/master/0877-stone-game) |
 ## Binary Search
 |  |
 | ------- |
@@ -32,6 +33,7 @@ aboutmy leetcode submissions
 | [0035-search-insert-position](https://github.com/ShreyElite/leetcode/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ShreyElite/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0658-find-k-closest-elements](https://github.com/ShreyElite/leetcode/tree/master/0658-find-k-closest-elements) |
+| [0877-stone-game](https://github.com/ShreyElite/leetcode/tree/master/0877-stone-game) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ShreyElite/leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/ShreyElite/leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1539-kth-missing-positive-number](https://github.com/ShreyElite/leetcode/tree/master/1539-kth-missing-positive-number) |
@@ -56,4 +58,20 @@ aboutmy leetcode submissions
 |  |
 | ------- |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/ShreyElite/leetcode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/ShreyElite/leetcode/tree/master/0877-stone-game) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/ShreyElite/leetcode/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/ShreyElite/leetcode/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/ShreyElite/leetcode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
