@@ -7,6 +7,7 @@ aboutmy leetcode submissions
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/ShreyElite/leetcode/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/ShreyElite/leetcode/tree/master/0268-missing-number) |
 | [0877-stone-game](https://github.com/ShreyElite/leetcode/tree/master/0877-stone-game) |
 ## Binary Search
 |  |
@@ -17,6 +18,7 @@ aboutmy leetcode submissions
 | [0069-sqrtx](https://github.com/ShreyElite/leetcode/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ShreyElite/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/ShreyElite/leetcode/tree/master/0162-find-peak-element) |
+| [0268-missing-number](https://github.com/ShreyElite/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/ShreyElite/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0658-find-k-closest-elements](https://github.com/ShreyElite/leetcode/tree/master/0658-find-k-closest-elements) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ShreyElite/leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -36,6 +38,7 @@ aboutmy leetcode submissions
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ShreyElite/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ShreyElite/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/ShreyElite/leetcode/tree/master/0162-find-peak-element) |
+| [0268-missing-number](https://github.com/ShreyElite/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/ShreyElite/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0658-find-k-closest-elements](https://github.com/ShreyElite/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0877-stone-game](https://github.com/ShreyElite/leetcode/tree/master/0877-stone-game) |
@@ -55,6 +58,7 @@ aboutmy leetcode submissions
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/ShreyElite/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/ShreyElite/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0658-find-k-closest-elements](https://github.com/ShreyElite/leetcode/tree/master/0658-find-k-closest-elements) |
 ## Heap (Priority Queue)
@@ -85,5 +89,10 @@ aboutmy leetcode submissions
 ## Hash Table
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/ShreyElite/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/ShreyElite/leetcode/tree/master/0349-intersection-of-two-arrays) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/ShreyElite/leetcode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
