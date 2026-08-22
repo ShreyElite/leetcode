@@ -8,6 +8,7 @@ aboutmy leetcode submissions
 | ------- |
 | [0069-sqrtx](https://github.com/ShreyElite/leetcode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/ShreyElite/leetcode/tree/master/0268-missing-number) |
+| [0292-nim-game](https://github.com/ShreyElite/leetcode/tree/master/0292-nim-game) |
 | [0877-stone-game](https://github.com/ShreyElite/leetcode/tree/master/0877-stone-game) |
 ## Binary Search
 |  |
@@ -77,10 +78,12 @@ aboutmy leetcode submissions
 ## Minimax
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/ShreyElite/leetcode/tree/master/0292-nim-game) |
 | [0877-stone-game](https://github.com/ShreyElite/leetcode/tree/master/0877-stone-game) |
 ## Game Theory
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/ShreyElite/leetcode/tree/master/0292-nim-game) |
 | [0877-stone-game](https://github.com/ShreyElite/leetcode/tree/master/0877-stone-game) |
 ## Zero-Sum Game
 |  |
@@ -95,4 +98,16 @@ aboutmy leetcode submissions
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/ShreyElite/leetcode/tree/master/0268-missing-number) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/ShreyElite/leetcode/tree/master/0292-nim-game) |
+## Nim Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/ShreyElite/leetcode/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/ShreyElite/leetcode/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
