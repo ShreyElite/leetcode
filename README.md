@@ -34,6 +34,7 @@ aboutmy leetcode submissions
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ShreyElite/leetcode/tree/master/0001-two-sum) |
+| [0027-remove-element](https://github.com/ShreyElite/leetcode/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/ShreyElite/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ShreyElite/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/ShreyElite/leetcode/tree/master/0035-search-insert-position) |
@@ -52,6 +53,7 @@ aboutmy leetcode submissions
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/ShreyElite/leetcode/tree/master/0027-remove-element) |
 | [0349-intersection-of-two-arrays](https://github.com/ShreyElite/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0658-find-k-closest-elements](https://github.com/ShreyElite/leetcode/tree/master/0658-find-k-closest-elements) |
 ## Sliding Window
