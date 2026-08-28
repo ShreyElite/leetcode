@@ -6,6 +6,7 @@ aboutmy leetcode submissions
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/ShreyElite/leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/ShreyElite/leetcode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/ShreyElite/leetcode/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/ShreyElite/leetcode/tree/master/0292-nim-game) |
@@ -38,6 +39,7 @@ aboutmy leetcode submissions
 | [0033-search-in-rotated-sorted-array](https://github.com/ShreyElite/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ShreyElite/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/ShreyElite/leetcode/tree/master/0035-search-insert-position) |
+| [0066-plus-one](https://github.com/ShreyElite/leetcode/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/ShreyElite/leetcode/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ShreyElite/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ShreyElite/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
