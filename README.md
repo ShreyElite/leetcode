@@ -10,6 +10,7 @@ aboutmy leetcode submissions
 | [0069-sqrtx](https://github.com/ShreyElite/leetcode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/ShreyElite/leetcode/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/ShreyElite/leetcode/tree/master/0292-nim-game) |
+| [0509-fibonacci-number](https://github.com/ShreyElite/leetcode/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/ShreyElite/leetcode/tree/master/0877-stone-game) |
 ## Binary Search
 |  |
@@ -80,6 +81,7 @@ aboutmy leetcode submissions
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ShreyElite/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0509-fibonacci-number](https://github.com/ShreyElite/leetcode/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/ShreyElite/leetcode/tree/master/0877-stone-game) |
 ## Minimax
 |  |
@@ -122,4 +124,12 @@ aboutmy leetcode submissions
 |  |
 | ------- |
 | [0078-subsets](https://github.com/ShreyElite/leetcode/tree/master/0078-subsets) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/ShreyElite/leetcode/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/ShreyElite/leetcode/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
