@@ -6,6 +6,7 @@ aboutmy leetcode submissions
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/ShreyElite/leetcode/tree/master/0007-reverse-integer) |
 | [0066-plus-one](https://github.com/ShreyElite/leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/ShreyElite/leetcode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/ShreyElite/leetcode/tree/master/0268-missing-number) |
