@@ -81,6 +81,7 @@ aboutmy leetcode submissions
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/ShreyElite/leetcode/tree/master/0022-generate-parentheses) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ShreyElite/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/ShreyElite/leetcode/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/ShreyElite/leetcode/tree/master/0877-stone-game) |
@@ -124,6 +125,7 @@ aboutmy leetcode submissions
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/ShreyElite/leetcode/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/ShreyElite/leetcode/tree/master/0078-subsets) |
 ## Recursion
 |  |
@@ -136,5 +138,10 @@ aboutmy leetcode submissions
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/ShreyElite/leetcode/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/ShreyElite/leetcode/tree/master/0058-length-of-last-word) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/ShreyElite/leetcode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
