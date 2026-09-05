@@ -139,6 +139,7 @@ aboutmy leetcode submissions
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/ShreyElite/leetcode/tree/master/0022-generate-parentheses) |
+| [0038-count-and-say](https://github.com/ShreyElite/leetcode/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/ShreyElite/leetcode/tree/master/0058-length-of-last-word) |
 ## Bracket Sequences
 |  |
