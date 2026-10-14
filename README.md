@@ -54,6 +54,7 @@ aboutmy leetcode submissions
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ShreyElite/leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/ShreyElite/leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1539-kth-missing-positive-number](https://github.com/ShreyElite/leetcode/tree/master/1539-kth-missing-positive-number) |
+| [1920-build-array-from-permutation](https://github.com/ShreyElite/leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/ShreyElite/leetcode/tree/master/1929-concatenation-of-array) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/ShreyElite/leetcode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 ## Two Pointers
@@ -150,5 +151,6 @@ aboutmy leetcode submissions
 ## Simulation
 |  |
 | ------- |
+| [1920-build-array-from-permutation](https://github.com/ShreyElite/leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/ShreyElite/leetcode/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
