@@ -14,6 +14,7 @@ aboutmy leetcode submissions
 | [0292-nim-game](https://github.com/ShreyElite/leetcode/tree/master/0292-nim-game) |
 | [0509-fibonacci-number](https://github.com/ShreyElite/leetcode/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/ShreyElite/leetcode/tree/master/0877-stone-game) |
+| [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/ShreyElite/leetcode/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 ## Binary Search
 |  |
 | ------- |
@@ -57,6 +58,7 @@ aboutmy leetcode submissions
 | [1920-build-array-from-permutation](https://github.com/ShreyElite/leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/ShreyElite/leetcode/tree/master/1929-concatenation-of-array) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/ShreyElite/leetcode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
+| [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/ShreyElite/leetcode/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 ## Two Pointers
 |  |
 | ------- |
