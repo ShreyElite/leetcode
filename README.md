@@ -25,6 +25,7 @@ aboutmy leetcode submissions
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ShreyElite/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/ShreyElite/leetcode/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/ShreyElite/leetcode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/ShreyElite/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/ShreyElite/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0658-find-k-closest-elements](https://github.com/ShreyElite/leetcode/tree/master/0658-find-k-closest-elements) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ShreyElite/leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -49,6 +50,7 @@ aboutmy leetcode submissions
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ShreyElite/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/ShreyElite/leetcode/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/ShreyElite/leetcode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/ShreyElite/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/ShreyElite/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0658-find-k-closest-elements](https://github.com/ShreyElite/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0877-stone-game](https://github.com/ShreyElite/leetcode/tree/master/0877-stone-game) |
@@ -63,6 +65,7 @@ aboutmy leetcode submissions
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/ShreyElite/leetcode/tree/master/0027-remove-element) |
+| [0287-find-the-duplicate-number](https://github.com/ShreyElite/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/ShreyElite/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0658-find-k-closest-elements](https://github.com/ShreyElite/leetcode/tree/master/0658-find-k-closest-elements) |
 ## Sliding Window
@@ -115,6 +118,7 @@ aboutmy leetcode submissions
 | ------- |
 | [0078-subsets](https://github.com/ShreyElite/leetcode/tree/master/0078-subsets) |
 | [0268-missing-number](https://github.com/ShreyElite/leetcode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/ShreyElite/leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Brainteaser
 |  |
 | ------- |
@@ -155,4 +159,12 @@ aboutmy leetcode submissions
 | ------- |
 | [1920-build-array-from-permutation](https://github.com/ShreyElite/leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/ShreyElite/leetcode/tree/master/1929-concatenation-of-array) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/ShreyElite/leetcode/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/ShreyElite/leetcode/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
