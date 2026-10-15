@@ -3,8 +3,8 @@ class Solution {
        int i=0;
        int n=nums.length;
        while(i<n) {
-        if(nums[i]==n || nums[i]==i) i++;
-        else{
+       
+        
             int temp=nums[i];
             nums[i]=nums[temp];
             nums[temp]=temp;
@@ -12,8 +12,7 @@ class Solution {
                 return nums[i];
             }
         }
-        
+        return -1;
        }
-       return -1;
+       
     }
-}
