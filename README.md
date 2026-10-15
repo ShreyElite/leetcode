@@ -52,6 +52,7 @@ aboutmy leetcode submissions
 | [0268-missing-number](https://github.com/ShreyElite/leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/ShreyElite/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/ShreyElite/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ShreyElite/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0658-find-k-closest-elements](https://github.com/ShreyElite/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0877-stone-game](https://github.com/ShreyElite/leetcode/tree/master/0877-stone-game) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ShreyElite/leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -113,6 +114,7 @@ aboutmy leetcode submissions
 | [0001-two-sum](https://github.com/ShreyElite/leetcode/tree/master/0001-two-sum) |
 | [0268-missing-number](https://github.com/ShreyElite/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/ShreyElite/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ShreyElite/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Bit Manipulation
 |  |
 | ------- |
