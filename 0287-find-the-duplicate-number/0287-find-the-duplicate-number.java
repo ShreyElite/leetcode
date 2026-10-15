@@ -4,13 +4,13 @@ class Solution {
        int n=nums.length;
        while(i<n) {
        
-        
+         if(nums[i]==nums[nums[i]]){
+                return nums[i];
+            }
             int temp=nums[i];
             nums[i]=nums[temp];
             nums[temp]=temp;
-            if(nums[i]==nums[nums[i]]){
-                return nums[i];
-            }
+           
         }
         return -1;
        }
