@@ -11,7 +11,7 @@ class Solution {
           }
           
         }
-        if(count==0 || sum==0) return 0;
+        if(count==0 ) return 0;
          int div=sum/count;
        return div;
     }
