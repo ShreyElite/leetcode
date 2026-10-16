@@ -10,6 +10,7 @@ aboutmy leetcode submissions
 | [0009-palindrome-number](https://github.com/ShreyElite/leetcode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/ShreyElite/leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/ShreyElite/leetcode/tree/master/0069-sqrtx) |
+| [0258-add-digits](https://github.com/ShreyElite/leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/ShreyElite/leetcode/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/ShreyElite/leetcode/tree/master/0292-nim-game) |
 | [0509-fibonacci-number](https://github.com/ShreyElite/leetcode/tree/master/0509-fibonacci-number) |
@@ -159,6 +160,7 @@ aboutmy leetcode submissions
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/ShreyElite/leetcode/tree/master/0258-add-digits) |
 | [1920-build-array-from-permutation](https://github.com/ShreyElite/leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/ShreyElite/leetcode/tree/master/1929-concatenation-of-array) |
 ## Pigeonhole Principle
@@ -169,4 +171,8 @@ aboutmy leetcode submissions
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/ShreyElite/leetcode/tree/master/0287-find-the-duplicate-number) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/ShreyElite/leetcode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
