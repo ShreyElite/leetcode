@@ -1,8 +1,9 @@
 class Solution {
     public int addDigits(int num) {
        if(num<10) return num;
+        int sum=0;
         while (num >= 10) {
-            int sum = 0;
+            sum=0;
 
             while (num != 0) {
                 sum += num % 10;
@@ -11,7 +12,9 @@ class Solution {
 
             num = sum;
         }
+       System.out.println(sum);
+       System.out.println(num);
 
-        return num;
+        return sum;
     }
 }
