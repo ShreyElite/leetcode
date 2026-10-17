@@ -1,6 +1,7 @@
 class Solution {
     public int addDigits(int num) {
         if(num==0) return num;
+        if(num==1) return 1;
         while (num >= 10) {
             int sum = 0;
 
