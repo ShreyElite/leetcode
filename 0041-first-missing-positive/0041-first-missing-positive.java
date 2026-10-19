@@ -4,7 +4,8 @@ class Solution {
         int i=0;
         int n=nums.length;
         while(i<nums.length){
-            if(nums[i]==i+1 || nums[i]>n || nums[i]<=0 || nums[i]==nums[nums[i]-1]  ){
+            int ele=nums[i];
+            if(ele==i+1 || ele>n || ele<=0 || ele==nums[ele-1]  ){
                 i++; 
             }
             else {
