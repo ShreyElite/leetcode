@@ -72,6 +72,7 @@ aboutmy leetcode submissions
 | [0027-remove-element](https://github.com/ShreyElite/leetcode/tree/master/0027-remove-element) |
 | [0287-find-the-duplicate-number](https://github.com/ShreyElite/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/ShreyElite/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0392-is-subsequence](https://github.com/ShreyElite/leetcode/tree/master/0392-is-subsequence) |
 | [0658-find-k-closest-elements](https://github.com/ShreyElite/leetcode/tree/master/0658-find-k-closest-elements) |
 ## Sliding Window
 |  |
@@ -98,6 +99,7 @@ aboutmy leetcode submissions
 | ------- |
 | [0022-generate-parentheses](https://github.com/ShreyElite/leetcode/tree/master/0022-generate-parentheses) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ShreyElite/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0392-is-subsequence](https://github.com/ShreyElite/leetcode/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/ShreyElite/leetcode/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/ShreyElite/leetcode/tree/master/0877-stone-game) |
 ## Minimax
@@ -162,6 +164,7 @@ aboutmy leetcode submissions
 | [0022-generate-parentheses](https://github.com/ShreyElite/leetcode/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/ShreyElite/leetcode/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/ShreyElite/leetcode/tree/master/0058-length-of-last-word) |
+| [0392-is-subsequence](https://github.com/ShreyElite/leetcode/tree/master/0392-is-subsequence) |
 ## Bracket Sequences
 |  |
 | ------- |
