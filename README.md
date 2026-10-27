@@ -192,4 +192,8 @@ aboutmy leetcode submissions
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/ShreyElite/leetcode/tree/master/0258-add-digits) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/ShreyElite/leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
