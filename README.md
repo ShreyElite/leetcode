@@ -72,6 +72,7 @@ aboutmy leetcode submissions
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ShreyElite/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0027-remove-element](https://github.com/ShreyElite/leetcode/tree/master/0027-remove-element) |
+| [0141-linked-list-cycle](https://github.com/ShreyElite/leetcode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ShreyElite/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0287-find-the-duplicate-number](https://github.com/ShreyElite/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/ShreyElite/leetcode/tree/master/0344-reverse-string) |
@@ -129,6 +130,7 @@ aboutmy leetcode submissions
 | ------- |
 | [0001-two-sum](https://github.com/ShreyElite/leetcode/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/ShreyElite/leetcode/tree/master/0041-first-missing-positive) |
+| [0141-linked-list-cycle](https://github.com/ShreyElite/leetcode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ShreyElite/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0268-missing-number](https://github.com/ShreyElite/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/ShreyElite/leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -192,6 +194,7 @@ aboutmy leetcode submissions
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/ShreyElite/leetcode/tree/master/0141-linked-list-cycle) |
 | [0287-find-the-duplicate-number](https://github.com/ShreyElite/leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Number Theory
 |  |
@@ -201,6 +204,7 @@ aboutmy leetcode submissions
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ShreyElite/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0141-linked-list-cycle](https://github.com/ShreyElite/leetcode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ShreyElite/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0237-delete-node-in-a-linked-list](https://github.com/ShreyElite/leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/ShreyElite/leetcode/tree/master/0876-middle-of-the-linked-list) |
