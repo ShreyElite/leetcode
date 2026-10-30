@@ -25,9 +25,7 @@ class Solution {
             }
         } 
         if(head==null) return null;
-        if(sec.next!=null && sec.val==sec.next.val){
-            sec.next=null;
-        }
+        sec.next=null;
          
         return head;
     }
