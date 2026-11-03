@@ -87,6 +87,7 @@ aboutmy leetcode submissions
 | [0876-middle-of-the-linked-list](https://github.com/ShreyElite/leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/ShreyElite/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/ShreyElite/leetcode/tree/master/1721-swapping-nodes-in-a-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/ShreyElite/leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Sliding Window
 |  |
 | ------- |
@@ -229,6 +230,7 @@ aboutmy leetcode submissions
 | [0328-odd-even-linked-list](https://github.com/ShreyElite/leetcode/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/ShreyElite/leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/ShreyElite/leetcode/tree/master/1721-swapping-nodes-in-a-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/ShreyElite/leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -241,4 +243,5 @@ aboutmy leetcode submissions
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/ShreyElite/leetcode/tree/master/0234-palindrome-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/ShreyElite/leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 <!---LeetCode Topics End-->
