@@ -13,10 +13,20 @@ class Solution {
    
     public ListNode swapPairs(ListNode head) {
         if(head==null || head.next==null) return head;
-        ListNode a=swapPairs(head.next.next);
-        head.next.next=head;
-        ListNode newh=head.next;
-        head.next=a;
-        return newh;
+         ListNode curr=head;
+         ListNode f=head.next;
+         ListNode c=head;
+         ListNode dummy=new ListNode(-1);
+         ListNode d=dummy;
+         while(f!=null && c!=null) {
+             d.next=f;
+             c.next=f.next;
+             f.next=c;
+             d=c;
+             c=c.next;
+         if(c!=null)    f=c.next;
+
+         }
+         return dummy.next;
      }
 }
