@@ -50,6 +50,7 @@ aboutmy leetcode submissions
 | [0066-plus-one](https://github.com/ShreyElite/leetcode/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/ShreyElite/leetcode/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ShreyElite/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/ShreyElite/leetcode/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ShreyElite/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/ShreyElite/leetcode/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/ShreyElite/leetcode/tree/master/0268-missing-number) |
@@ -152,6 +153,7 @@ aboutmy leetcode submissions
 |  |
 | ------- |
 | [0078-subsets](https://github.com/ShreyElite/leetcode/tree/master/0078-subsets) |
+| [0136-single-number](https://github.com/ShreyElite/leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/ShreyElite/leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/ShreyElite/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0645-set-mismatch](https://github.com/ShreyElite/leetcode/tree/master/0645-set-mismatch) |
