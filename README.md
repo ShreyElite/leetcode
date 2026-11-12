@@ -60,6 +60,7 @@ aboutmy leetcode submissions
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ShreyElite/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/ShreyElite/leetcode/tree/master/0645-set-mismatch) |
 | [0658-find-k-closest-elements](https://github.com/ShreyElite/leetcode/tree/master/0658-find-k-closest-elements) |
+| [0682-baseball-game](https://github.com/ShreyElite/leetcode/tree/master/0682-baseball-game) |
 | [0877-stone-game](https://github.com/ShreyElite/leetcode/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/ShreyElite/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ShreyElite/leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -209,6 +210,7 @@ aboutmy leetcode submissions
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/ShreyElite/leetcode/tree/master/0258-add-digits) |
+| [0682-baseball-game](https://github.com/ShreyElite/leetcode/tree/master/0682-baseball-game) |
 | [1920-build-array-from-permutation](https://github.com/ShreyElite/leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/ShreyElite/leetcode/tree/master/1929-concatenation-of-array) |
 ## Pigeonhole Principle
@@ -268,6 +270,7 @@ aboutmy leetcode submissions
 | [0020-valid-parentheses](https://github.com/ShreyElite/leetcode/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/ShreyElite/leetcode/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/ShreyElite/leetcode/tree/master/0234-palindrome-linked-list) |
+| [0682-baseball-game](https://github.com/ShreyElite/leetcode/tree/master/0682-baseball-game) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ShreyElite/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/ShreyElite/leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Tournament Sort
