@@ -59,6 +59,7 @@ aboutmy leetcode submissions
 | [0442-find-all-duplicates-in-an-array](https://github.com/ShreyElite/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ShreyElite/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/ShreyElite/leetcode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/ShreyElite/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0645-set-mismatch](https://github.com/ShreyElite/leetcode/tree/master/0645-set-mismatch) |
 | [0658-find-k-closest-elements](https://github.com/ShreyElite/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0682-baseball-game](https://github.com/ShreyElite/leetcode/tree/master/0682-baseball-game) |
@@ -275,6 +276,7 @@ aboutmy leetcode submissions
 | [0143-reorder-list](https://github.com/ShreyElite/leetcode/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/ShreyElite/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/ShreyElite/leetcode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/ShreyElite/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/ShreyElite/leetcode/tree/master/0682-baseball-game) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ShreyElite/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/ShreyElite/leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -287,5 +289,6 @@ aboutmy leetcode submissions
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/ShreyElite/leetcode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/ShreyElite/leetcode/tree/master/0503-next-greater-element-ii) |
 | [2487-remove-nodes-from-linked-list](https://github.com/ShreyElite/leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 <!---LeetCode Topics End-->
