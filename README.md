@@ -70,6 +70,7 @@ aboutmy leetcode submissions
 | [1539-kth-missing-positive-number](https://github.com/ShreyElite/leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1920-build-array-from-permutation](https://github.com/ShreyElite/leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/ShreyElite/leetcode/tree/master/1929-concatenation-of-array) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/ShreyElite/leetcode/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/ShreyElite/leetcode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/ShreyElite/leetcode/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 ## Two Pointers
@@ -279,6 +280,7 @@ aboutmy leetcode submissions
 | [0503-next-greater-element-ii](https://github.com/ShreyElite/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/ShreyElite/leetcode/tree/master/0682-baseball-game) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ShreyElite/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/ShreyElite/leetcode/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/ShreyElite/leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/ShreyElite/leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Tournament Sort
@@ -290,5 +292,6 @@ aboutmy leetcode submissions
 | ------- |
 | [0496-next-greater-element-i](https://github.com/ShreyElite/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ShreyElite/leetcode/tree/master/0503-next-greater-element-ii) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/ShreyElite/leetcode/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2487-remove-nodes-from-linked-list](https://github.com/ShreyElite/leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 <!---LeetCode Topics End-->
